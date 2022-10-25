@@ -1,0 +1,48 @@
+
+.f-1{
+    background-color: white;
+    width: 60%;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.logo-svg{
+    filter: brightness(0) invert(1);
+    width: 40%;
+}
+
+.f-12{
+    font-size: 12px;
+}
+
+.btn-pill{
+    background-color: #fc52c0 !important;
+}
+
+.img-width{
+    width: 80%;
+}
+.footer{
+    background-color: #00252f; 
+    min-height: fit-content;
+}
+
+.mt-top{
+    margin-top: -100px; 
+}
+
+.mt-top-1{
+    margin-top: 100px;
+}
+.link{
+    text-decoration: none;
+}
+@media (max-width: 600px) {
+    .home-text {
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+
+}
